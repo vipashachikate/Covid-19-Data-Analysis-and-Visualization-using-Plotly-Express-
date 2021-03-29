@@ -1,5 +1,6 @@
 # Covid-19-Data-Analysis-and-Visualization-using-Plotly-Express-
 What you’ll learn Statistical Data Visualization using Bar graphs and Scatter plots and Bubble charts Geographical Data Visualization using Choropleth maps Text Visualization using WordCloud Learn to Create Animations to analyse how the Covid infection grows with time and location Learn to create Bar graphs, Scatter plots , Bubble charts and Animation in Plotly express
+
 Task 1: Importing Libraries
 
 Task 2: Importing Datasets
